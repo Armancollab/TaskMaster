@@ -1,5 +1,5 @@
 **Usage:**
-Follow these steps to start using TodoBot:
+Follow these steps to start using TaskMaster:
 
 ```shell
    git clone https://github.com/Armancollab/TaskMaster.git
